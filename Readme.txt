@@ -1,4 +1,4 @@
-Die zu analysierte Datei Motoren muss im selben Verzeichnis wie die ProgrammDateien sein.
+Die zu analysierte Datei "Motoren.csv" muss im selben Verzeichnis wie die ProgrammDateien sein.
 
 Öffne Eingabeaufforderung, dort wo die Drei Code-Dateien "run, core, und prints" sind,
 dann gebe den Befehl (python run.py) ein.
